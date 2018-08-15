@@ -1,0 +1,6 @@
+{
+  "name": "countdown: PHP",
+  "description": "A barebones PHP app",
+  "repository": "https://git.heroku.com/ta-countdown.git",
+  "addons": []
+}
